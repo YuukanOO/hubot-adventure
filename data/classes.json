@@ -1,0 +1,46 @@
+{
+    "Barbare": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Barbare.ashx",
+        "description": "le barbare, un combattant brutal qui provient des frontières de la civilisation,"
+    },
+    "Barde": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Barde.ashx",
+        "description": "le barde, qui utilise ses capacités ainsi que ses sorts pour donner du courage à ses alliés, troubler ses ennemis et se construire une réputation,"
+    },
+    "Druide": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Druide.ashx",
+        "description": "le druide, à la fois lanceur de sorts vénérant la nature, ami des animaux et métamorphe doué,"
+    },
+    "Ensorceleur": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Ensorceleur.ashx",
+        "description": "l'ensorceleur, un lanceur de sorts venu au monde avec un don inné pour la magie, qui possède d’étranges et mystérieux pouvoirs,"
+    },
+    "Guerrier": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Guerrier.ashx",
+        "description": "le guerrier, un maître en matière d’armes et d’armures de toutes sortes à la fois courageux et vaillant,"
+    },
+    "Magicien": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Magicien.ashx",
+        "description": "le magicien qui, à force d'étudier sans cesse, parvient à maîtriser la magie et acquiert d'incroyables pouvoirs,"
+    },
+    "Moine": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Moine.ashx",
+        "description": "le moine, qui étudie les arts martiaux et s’entraîne à faire de son corps sa meilleure arme et sa meilleure défense,"
+    },
+    "Paladin": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Paladin.ashx",
+        "description": "le paladin, un chevalier à l’armure étincelante, un individu dévoué à la loi et au bien,"
+    },
+    "Prêtre": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Pr%c3%aatre.ashx",
+        "description": "le prêtre qui, fidèle et dévoué à son dieu, peut soigner les blessures, ramener les morts à la vie et attirer sur ses ennemis les foudres divines,"
+    },
+    "Rôdeur": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.R%c3%b4deur.ashx",
+        "description": "le rôdeur, à la fois pisteur et chasseur, une créature des étendues sauvages qui excelle lorsqu’il s’agit de débusquer ses ennemis jurés, et enfin"
+    },
+    "Roublard": {
+        "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Roublard.ashx",
+        "description": "le roublard, à la fois voleur et éclaireur, un opportuniste capable de porter des coups terribles contre les ennemis qu’il parvient à surprendre."
+    }
+}
