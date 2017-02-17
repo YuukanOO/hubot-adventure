@@ -1,30 +1,37 @@
 {
     "Demi-elfe": {
         "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Demi-elfe.ashx",
+        "avatar": "http://www.pathfinder-fr.org/wiki/public/upload/Illustrations/PNJ/Demi-elfe.jpg",
         "description": "Les demi-elfes oscillent souvent entre les deux mondes de leurs parents et mêlent la grâce aux contradictions. Leur héritage dual et leurs dons naturels en font de brillants diplomates et de bons émissaires de la paix, mais ils se laissent souvent envahir par une immense mélancolie et s’isolent en comprenant qu’ils ne font ni partie de la société humaine ni de la société elfique."
     },
     "Demi-orque": {
         "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Demi-orque.ashx",
+        "avatar": "http://www.pathfinder-fr.org/wiki/public/upload/Illustrations/PNJ/Demi-orque.jpg",
         "description": "Les demi-orques sont souvent féroces et sauvages, parfois nobles et résolus, et peuvent faire preuve des meilleures qualités comme des pires défauts des deux races qui leur ont donné naissance. Beaucoup de demi-orques luttent pour maîtriser leurs élans bestiaux et incarner les valeurs les plus nobles de l’humanité. Malheureusement, de nombreuses personnes considèrent les demi-orques comme des abominations désespérément dépourvues de tout sens civil ou comme des monstres qui ne méritent ni pitié ni pourparlers."
     },
     "Elfe": {
         "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Elfe.ashx",
+        "avatar": "http://www.pathfinder-fr.org/wiki/public/upload/Illustrations/PNJ/Elfe.jpg",
         "description": "Grands, nobles et souvent hautains, les elfes à la longue espérance de vie sont les maîtres subtils de la nature. Ils excellent dans les arts magiques et utilisent souvent leur lien inné avec la nature pour inventer de nouveaux sorts et fabriquer de merveilleux objets qui, comme leurs créateurs, semblent presque hors d’atteinte des ravages du temps. Les elfes forment une race secrète et souvent introvertie, qui donne parfois l’impression d’être imperméable aux suppliques d’autrui."
     },
     "Gnome": {
         "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Gnome.ashx",
+        "avatar": "http://www.pathfinder-fr.org/wiki/public/upload/Illustrations/PNJ/Gnome.jpg",
         "description": "Ces petites gens exilés originaires de l’étrange monde des fées sont réputés pour être frivoles et excentriques. De nombreux gnomes sont des artisans et des rétameurs capricieux qui fabriquent des objets bizarres alimentés par la puissance de la magie, de l’alchimie ou par leur singulière imagination. Ils ont toujours soif de nouvelles expériences, ce qui leur attire souvent des ennuis."
     },
     "Halfelin": {
         "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Halfelin.ashx",
+        "avatar": "http://www.pathfinder-fr.org/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg",
         "description": "Les membres de cette race de petite taille tirent leur force de leur famille, de leur communauté et de leur chance, qui semble absolument inépuisable. Leur insatiable curiosité entre souvent en conflit avec leur bon sens, mais ce sont d’éternels optimistes et des opportunistes rusés qui disposent d’un talent incroyable pour se sortir des pires situations."
     },
     "Humain": {
         "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Humain.ashx",
+        "avatar": "http://www.pathfinder-fr.org/wiki/public/upload/Illustrations/PNJ/Humain.jpg",
         "description": "Ambitieux, parfois héroïques, mais toujours confiants, les humains sont capables de travailler ensemble pour atteindre des objectifs communs, ce qui fait d’eux une puissance à ne pas négliger. Ils ont une espérance de vie réduite par rapport aux autres races, mais leur énergie sans limites et leurs passions leur permettent d’accomplir beaucoup de choses malgré leur brève existence."
     },
     "Nain": {
         "link": "http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Nain.ashx",
+        "avatar": "http://www.pathfinder-fr.org/wiki/public/upload/Illustrations/PNJ/Nain.jpg",
         "description": "On pense souvent que ces défenseurs des forteresses montagneuses petits et râblés sont sévères et dépourvus de tout sens de l’humour. Ils sont connus pour extraire les trésors du sol et fabriquer de merveilleux objets métalliques, parfois incrustés de gemmes, et pour avoir une affinité particulière avec les richesses cachées dans les entrailles de la terre. Les nains ont aussi tendance à s’isoler et à se replier sur leurs traditions, au point de sombrer parfois dans la xénophobie."
     }
 }

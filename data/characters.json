@@ -1,0 +1,62 @@
+{
+    "jleicher": {
+        "user": "jleicher",
+        "level": 1,
+        "xp": 0,
+        "health": 14,
+        "armor": 0,
+        "name": "Coco l'Asticot",
+        "color": "#e9cbaf",
+        "class": "Barbare",
+        "race": "Nain",
+        "stats": {
+            "strengh": 18,
+            "dexterity": 16,
+            "constitution": 14,
+            "intelligence": 12,
+            "wisdom": 8,
+            "charisma": 13
+        },
+        "modifiers": {
+            "strengh": 4,
+            "dexterity": 3,
+            "constitution": 2,
+            "intelligence": 1,
+            "wisdom": -1,
+            "charisma": 1
+        },
+        "gold": 0,
+        "backpack": [],
+        "initialized": true
+    },
+    "baptiste": {
+        "user": "baptiste",
+        "level": 1,
+        "xp": 0,
+        "health": 11,
+        "armor": 0,
+        "name": "Bitocu",
+        "color": "#e9cbaf",
+        "class": "Rôdeur",
+        "race": "Elfe",
+        "stats": {
+            "strengh": 10,
+            "dexterity": 17,
+            "constitution": 12,
+            "intelligence": 10,
+            "wisdom": 8,
+            "charisma": 14
+        },
+        "modifiers": {
+            "strengh": 0,
+            "dexterity": 3,
+            "constitution": 1,
+            "intelligence": 0,
+            "wisdom": -1,
+            "charisma": 2
+        },
+        "gold": 0,
+        "backpack": [],
+        "initialized": true
+    }
+}

@@ -6,6 +6,7 @@
   "description": "My story telling bot",
   "dependencies": {
     "inflected": "^1.1.7",
+    "lodash": "^4.17.4",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
@@ -22,7 +23,8 @@
     "hubot-conversation": "^1.1.1"
   },
   "devDependencies": {
-    "crawler": "^1.0.2"
+    "crawler": "^1.0.2",
+    "async": "^2.1.4"
   },
   "engines": {
     "node": "0.10.x"
