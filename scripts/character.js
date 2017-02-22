@@ -6,7 +6,7 @@ module.exports = function (robot) {
   /**
    * Upon hearing !me, display the character of the user.
    */
-  robot.hear(/!me/, function (res) {
+  robot.hear(/^!me/, function (res) {
     const username = helpers.username(res);
     const character = db.characterForUsername(username);
 
@@ -14,6 +14,17 @@ module.exports = function (robot) {
       res.reply("Il semblerait que tu n'ai pas encore de personnage :thinking_face:");
     } else {
       res.send(character.attachment(`@${username}`));
+    }
+  });
+
+  robot.hear(/^!backpack/, function (res) {
+    const username = helpers.username(res);
+    const character = db.characterForUsername(username);
+
+    if (!character.initialized) {
+      res.reply("Il semblerait que tu n'ai pas encore de personnage :thinking_face:");
+    } else {
+      res.send(character.backpackAttachment(`@${username}`));
     }
   });
 }
